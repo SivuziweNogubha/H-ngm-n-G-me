@@ -1,8 +1,3 @@
-# problem-102-java-003-002
-Module 102
-Topic 003: Encapsulation
-Problem 002: Hangman
-
 ## Getting Started
 This project is a `Java` project using `maven` as build tool.
 
