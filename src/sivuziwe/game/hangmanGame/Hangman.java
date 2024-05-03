@@ -1,4 +1,4 @@
-package za.co.wethinkcode.examples.hangman;
+package sivuziwe.game.hangmanGame;
 
 import java.io.IOException;
 import java.nio.file.Files;

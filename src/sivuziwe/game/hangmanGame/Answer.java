@@ -1,5 +1,5 @@
 
-package za.co.wethinkcode.examples.hangman;
+package sivuziwe.game.hangmanGame;
 
 import java.util.Random;
 
